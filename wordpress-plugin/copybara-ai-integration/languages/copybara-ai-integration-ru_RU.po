@@ -1,0 +1,257 @@
+# Russian translations for copybara.ai Integration package
+# Английские переводы для пакета copybara.ai Integration.
+# Copyright (C) 2026 THE copybara.ai Integration'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the copybara.ai Integration package.
+# Automatically generated, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: copybara.ai Integration 1.1.0\n"
+"Report-Msgid-Bugs-To: https://copybara.ai\n"
+"POT-Creation-Date: 2026-05-01 12:18+0300\n"
+"PO-Revision-Date: 2026-05-01 12:18+0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: includes/class-cbai-settings.php:176
+msgid "API ключ"
+msgstr ""
+
+#: includes/class-cbai-ajax-handler.php:36
+msgid "API ключ не указан. Используйте заголовок X-API-Key (рекомендуется)."
+msgstr ""
+
+#: includes/class-cbai-rest-controller.php:41
+msgid ""
+"API ключ не указан. Используйте заголовок X-API-Key или Authorization: "
+"Bearer."
+msgstr ""
+
+#: includes/class-cbai-settings.php:210
+msgid "Base64:"
+msgstr ""
+
+#: includes/class-cbai-settings.php:81
+msgid "Default author"
+msgstr "Автор по умолчанию"
+
+#: includes/class-cbai-settings.php:72
+msgid "Default post status"
+msgstr "Статус записи по умолчанию"
+
+#: includes/class-cbai-rest-controller.php:94
+msgid "ID категорий"
+msgstr ""
+
+#: includes/class-cbai-settings.php:56
+msgid "Integration settings"
+msgstr "Настройки интеграции"
+
+#: includes/class-cbai-post-creator.php:199
+msgid "Invalid base64 image data."
+msgstr "Некорректные base64-данные изображения."
+
+#: includes/class-cbai-settings.php:108
+msgid ""
+"Official WordPress integration for copybara.ai — receive content from your "
+"copybara.ai account."
+msgstr ""
+
+#: includes/class-cbai-settings.php:63
+msgid "Post type"
+msgstr "Тип записи"
+
+#: includes/class-cbai-post-creator.php:103
+msgid "Title and content are required."
+msgstr "Требуются title и content."
+
+#: includes/class-cbai-settings.php:196
+msgid "URL для Copybara"
+msgstr ""
+
+#: includes/class-cbai-settings.php:41
+msgid "copybara.ai"
+msgstr ""
+
+#: includes/class-cbai-settings.php:40
+msgid "copybara.ai Integration"
+msgstr "Интеграция с copybara.ai"
+
+#: includes/class-cbai-settings.php:144
+msgid "В каком статусе создавать записи по умолчанию."
+msgstr ""
+
+#: includes/class-cbai-rest-controller.php:54
+msgid "Заголовок записи"
+msgstr ""
+
+#: includes/class-cbai-rest-controller.php:79
+msgid "Изображение для записи. url — URL изображения, или data — base64 + mime"
+msgstr ""
+
+#: includes/class-cbai-settings.php:207
+msgid ""
+"Изображение передаётся в поле featured_image в теле JSON-запроса. "
+"Поддерживаются два способа:"
+msgstr ""
+
+#: includes/class-cbai-settings.php:212
+msgid "Изображение станет миниатюрой записи (Featured Image)."
+msgstr ""
+
+#: includes/class-cbai-settings.php:177
+msgid "Используйте этот ключ в Copybara для авторизации при отправке контента."
+msgstr ""
+
+#: includes/class-cbai-settings.php:191
+msgid "Ключ не создан. Сохраните настройки ниже."
+msgstr ""
+
+#: includes/class-cbai-settings.php:181
+msgid "Копировать"
+msgstr ""
+
+#: includes/class-cbai-settings.php:200
+msgid "Копировать URL"
+msgstr ""
+
+#: includes/class-cbai-rest-controller.php:89
+msgid "Краткое описание (excerpt)"
+msgstr ""
+
+#: includes/class-cbai-settings.php:106
+msgid "Настройте, как сервис copybara.ai создаёт записи на сайте."
+msgstr ""
+
+#: includes/class-cbai-rest-controller.php:44
+#: includes/class-cbai-ajax-handler.php:39
+msgid "Неверный API ключ."
+msgstr ""
+
+#: includes/class-cbai-ajax-handler.php:45
+msgid "Некорректный JSON в теле запроса."
+msgstr ""
+
+#: includes/class-cbai-settings.php:142
+msgid "Опубликовано"
+msgstr ""
+
+#: includes/class-cbai-settings.php:206
+msgid "Отправка изображений"
+msgstr ""
+
+#: includes/class-cbai-rest-controller.php:71
+msgid "Переопределить статус (опционально)"
+msgstr ""
+
+#: includes/class-cbai-rest-controller.php:75
+msgid "Переопределить тип записи (опционально)"
+msgstr ""
+
+#: includes/class-cbai-settings.php:209
+msgid "По URL:"
+msgstr ""
+
+#: includes/class-cbai-settings.php:158
+msgid "Пользователь, от имени которого будут создаваться записи."
+msgstr ""
+
+#: includes/class-cbai-settings.php:202
+msgid ""
+"Рекомендуется admin-ajax — работает даже при отключённом REST API. "
+"Альтернатива: REST API"
+msgstr ""
+
+#: includes/class-cbai-settings.php:187
+msgid "Сгенерировать новый ключ"
+msgstr ""
+
+#: includes/class-cbai-settings.php:186
+msgid "Сгенерировать новый ключ? Старый перестанет работать."
+msgstr ""
+
+#: includes/class-cbai-settings.php:33
+msgid "Скопировано!"
+msgstr ""
+
+#: includes/class-cbai-settings.php:197
+msgid ""
+"Скопируйте этот URL и вставьте в настройках Copybara (Настройки → Публикация "
+"→ На сайте)."
+msgstr ""
+
+#: includes/class-cbai-rest-controller.php:60
+msgid "Содержимое записи (HTML или Markdown)"
+msgstr ""
+
+#: includes/class-cbai-settings.php:219
+msgid "Сохранить настройки"
+msgstr ""
+
+#: includes/class-cbai-rest-controller.php:99
+msgid "Теги (имена)"
+msgstr ""
+
+#: includes/class-cbai-ajax-handler.php:45
+msgid "Тело запроса пустое. Отправьте JSON с title и content."
+msgstr ""
+
+#: includes/class-cbai-settings.php:132
+msgid ""
+"Тип контента, в который будут создаваться записи (записи, страницы или "
+"кастомные типы)."
+msgstr ""
+
+#: includes/class-cbai-ajax-handler.php:31
+msgid "Только POST."
+msgstr ""
+
+#: includes/class-cbai-rest-controller.php:66
+msgid "Формат контента"
+msgstr ""
+
+#: includes/class-cbai-settings.php:141
+msgid "Черновик"
+msgstr ""
+
+#: includes/class-cbai-settings.php
+msgid "Image placement"
+msgstr "Расположение изображения"
+
+#: includes/class-cbai-settings.php
+msgid "Обложка (Featured Image)"
+msgstr ""
+
+#: includes/class-cbai-settings.php
+msgid "В тело записи"
+msgstr ""
+
+#: includes/class-cbai-settings.php
+msgid "Обложка и тело (оба)"
+msgstr ""
+
+#: includes/class-cbai-settings.php
+msgid "AI (WordPress 7+)"
+msgstr ""
+
+#: includes/class-cbai-ai-rewrite.php
+msgid "copybara.ai — Переписать"
+msgstr ""
+
+#: includes/class-cbai-ai-rewrite.php
+msgid "Переписать"
+msgstr ""
+
+#: includes/class-cbai-ai-rewrite.php
+msgid "Заменить контент"
+msgstr ""
+
+#: includes/ai/class-cbai-ai-provider.php
+msgid "copybara.ai"
+msgstr ""
